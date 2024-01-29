@@ -29,3 +29,5 @@ In our last tutorial, we preprocessed audio data, which will now serve as the fo
 
 ## Contact
 For queries or further discussions, feel free to reach out to TA( maryiam_zahoor@sfu.ca)
+
+Credits: https://github.com/IliaZenkov/sklearn-audio-classification
